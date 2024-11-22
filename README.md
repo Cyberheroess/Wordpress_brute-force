@@ -49,9 +49,7 @@
 2. Jalankan script dengan perintah:
    ```bash
    python main.py
-  ```
-
-
+  ``
 ### Opsi 1: Validasi URL dan Cek Situs
 
 - Masukkan URL login WordPress yang ingin Anda validasi.
