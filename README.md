@@ -31,7 +31,8 @@
 1. Clone the repository:
    ```bash
    git clone https://github.com/Cyberheroess/Wordpress_brute-force.git
-   cd wordpress
+   cd Wordpress_brute-force
+
 
 ## Penggunaan
 
