@@ -30,9 +30,9 @@
 # **Installation**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/wordpress-brute-force.git
+   git clone https://github.com/Cyberheroess/Wordpress_brute-force.git
    cd wordpress
-``
+
 ## Penggunaan
 
 ### Persiapan
@@ -49,7 +49,7 @@
 2. Jalankan script dengan perintah:
    ```bash
    python main.py
-  ``
+  
 ### Opsi 1: Validasi URL dan Cek Situs
 
 - Masukkan URL login WordPress yang ingin Anda validasi.
