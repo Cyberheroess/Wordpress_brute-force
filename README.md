@@ -32,7 +32,7 @@
    ```bash
    git clone https://github.com/yourusername/wordpress-brute-force.git
    cd wordpress
-```
+``
 ## Penggunaan
 
 ### Persiapan
