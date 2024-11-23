@@ -79,12 +79,6 @@
 
 - Pilih opsi ini untuk mengakhiri program.
 
-### Tips Penggunaan
-
-- Gunakan wordlist yang kuat dan up-to-date untuk hasil terbaik.
-- Pastikan Anda memiliki izin untuk melakukan pengujian pada target.
-- Gunakan proxy untuk anonimitas tambahan jika diperlukan.
-- Periksa log untuk informasi detail tentang proses pengujian.
 
 <table>
   <tr>
