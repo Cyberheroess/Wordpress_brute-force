@@ -30,33 +30,33 @@
 </table>
 
 # **Installation**
-1. Clone the repository:
+> 1. Clone the repository:
    ```bash
    git clone https://github.com/Cyberheroess/Wordpress_brute-force.git
    cd Wordpress_brute-force
-
+```
 
 ## Penggunaan
 
 ### Persiapan
 
-1. Pastikan Python 3.7+ terinstal di sistem Anda.
-2. Install dependensi yang diperlukan:
+> 1. Pastikan Python 3.7+ terinstal di sistem Anda.
+> 2. Install dependensi yang diperlukan:
    ```bash
    pip install -r requirements.txt
    ```
 
 ### Menjalankan Script
 
-1. Buka terminal dan navigasi ke direktori script.
-2. Jalankan script dengan perintah:
+> 1. Buka terminal dan navigasi ke direktori script.
+> 2. Jalankan script dengan perintah:
    ```bash
    python main.py
-  
+  ```
 ### Opsi 1: Validasi URL dan Cek Situs
 
-- Masukkan URL login WordPress yang ingin Anda validasi.
-- Script akan memeriksa apakah URL valid dan situs aktif.
+> Masukkan URL login WordPress yang ingin Anda validasi.
+? Script akan memeriksa apakah URL valid dan situs aktif.
 
 ### Opsi 2: Brute Force Login
 
